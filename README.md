@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kennedykubiak&theme=dark&hide_border=true&include_all_commits=false&card_width=437)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kennedykubiak&theme=dark&hide_border=true&card_width=437)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykubiak&theme=dark&hide_border=true&include_all_commits=false&layout=compact&card_width=437)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykubiak&theme=dark&hide_border=true&include_all_commits=false&layout=compact&card_width=437)<br/>
 
 
 <!--
